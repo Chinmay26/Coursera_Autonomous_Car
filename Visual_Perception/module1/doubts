@@ -1,1 +1,6 @@
 Camera projection matrix - what is it & why is it needed?
+How to diff intrinsic & extrinsic params?
+why 3 coordinate frames needed? Not 2?
+cross correlation: why is this operation needed? why just not define convolution?
+Can we replace image by image features completely?
+Image as signal rather than discrete values?
